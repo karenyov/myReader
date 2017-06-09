@@ -14,3 +14,5 @@ No navegador basta iniciar o servidorzinho do Ionic (na pasta do projeto):
 > ionic serve
 
 ```
+
+E acessar a URL com o endereço http://localhost:8100/ e ser feliz :)
